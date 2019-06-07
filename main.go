@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/go-cat/service"
+	"go-cat-server/service"
 )
 
 var appName = "catService"
