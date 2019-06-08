@@ -22,3 +22,5 @@ mvn gatling:execute -Dusers=1000 -Dduration=30 -DbaseUrl=http://localhost:6767
 [Go微服务 - 嵌入数据库和JSON](https://segmentfault.com/a/1190000014961252)
 
 [author github codes](https://github.com/callistaenterprise/goblog/tree/P3/accountservice)
+
+> p2 已添加读取数据
