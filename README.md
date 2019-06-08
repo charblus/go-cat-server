@@ -20,3 +20,5 @@ mvn gatling:execute -Dusers=1000 -Dduration=30 -DbaseUrl=http://localhost:6767
 > 首次运行，mvn会自动安装一大堆东西。安装完后，测试完成之后，它会将结果写到控制台窗口，同时也会产生一个报告到target/gatling/results中的html中。
 
 [Go微服务 - 嵌入数据库和JSON](https://segmentfault.com/a/1190000014961252)
+
+[author github codes](https://github.com/callistaenterprise/goblog/tree/P3/accountservice)
